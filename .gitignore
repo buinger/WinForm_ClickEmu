@@ -1,0 +1,20 @@
+# Visual Studio temporary files
+*.suo
+*.user
+*.cache
+*.tmp
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# NuGet packages
+packages/
+
+# Third-party libraries
+lib/
+
+# Ignore user-specific files and folders
+.vs/
